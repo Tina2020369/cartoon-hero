@@ -1,0 +1,79 @@
+html,body{
+	font-family: arial,sans-serif;
+	margin: 0;
+}
+header {
+	background-color: #bf2e1b;
+	color: white;
+	text-align: center;
+	padding: 40px;
+	box-shadow: 20px 20px 30px #000;
+}
+header img{
+	border-radius: 150px;
+    border: 11px solid #ffff33;
+    width: 285px;
+    box-shadow: 10px 10px 20px #000;
+}
+h1{
+	font-size: 60px;
+    font-style: italic;
+    text-shadow: 15px 5px 22px #000;
+
+}
+h2{
+	margin: 0;
+	padding: 20px;
+	font-style: italic;
+}
+.contenido{
+	background-color: #ffff33;
+	max-width: 900px;
+	margin: 0 auto;
+	padding: 0 20px;
+	box-shadow: 1px 24px 86px #000;
+}
+.accion{
+max-width: 100%;
+border: 8px solid black;
+}
+.amigos{
+max-width: 100%;
+width: 281px;
+border: 8px solid black;
+}
+h2{
+	text-align: center;
+}
+
+ul{
+	list-style-type: none;
+	margin-bottom: 20px;
+	padding: 0;
+	text-align: center;
+	
+}
+ul li{
+	display: inline-block;
+	margin-right: 139px;
+}
+.ultimo{
+	margin-left: 20px;
+}
+a{
+	text-decoration: none;
+	color: red;
+}
+footer{
+	background-color: #333333;
+	padding: 20px 40px;
+    box-shadow: 2px -9px 31px #000;
+}
+footer ul{
+	text-align: center;
+
+}
+footer ul li{
+	display: inline-block;
+	margin-right: 20px;
+}
